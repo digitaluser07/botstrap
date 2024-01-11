@@ -1,0 +1,238 @@
+.section {
+    margin: 0 auto;
+    display: inline-flex;
+    height: 1042px;
+    padding: 0px 0.5px 0px 175px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 175px;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    padding-left: 400px;
+}
+
+.get {
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.div1 {
+    padding-top: 19.7px;
+    display: flex;
+    width: 404px;
+    height: 58px;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.div2 {
+    padding-top: 25px;
+    display: flex;
+    width: 404px;
+    height: 58px;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+.forget {
+    width: 83px;
+    height: 16.594px;
+    flex-shrink: 0;
+    color: var(--action-sec, #0C2A92);
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 350px;
+    +69
+    +
+    
+}
+.div3 {
+    padding-top: 25px;
+    display: flex;
+    width: 404px;
+    height: 58px;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-shrink: 0;
+
+}
+.name1 {
+    color: #000;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.inp1 {
+    padding-left: 15px;
+    display: flex;
+    width: 404px;
+    height: 32px;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+}
+
+.name2 {
+    color: #000;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.inp2 {
+    padding-left: 15px;
+    display: flex;
+    width: 404px;
+    height: 32px;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+}
+
+.name3 {
+    color: #000;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.inp3 {
+    padding-left: 15px;
+    display: flex;
+    width: 404px;
+    height: 32px;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+}
+
+.policy {
+    width: 104px;
+    height: 15.488px;
+    flex-shrink: 0;
+    color: #000;
+    display: flex;
+    display: block;
+    font-family: Poppins;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.policy__container {
+    display: flex;
+
+}
+
+.terms {
+    text-decoration: underline;
+}
+
+.button {
+    border-radius: 10px;
+    background-color: #3A5B22;
+    width: 400px;
+    height: 35.019px;
+    flex-shrink: 0;
+}
+
+.Signup {
+    margin: 0 auto;
+    color: #FFF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.or__p {
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    align-items: center;
+    padding-left: 190px;
+    padding-top: 100px;
+    margin: 0 auto;
+}
+
+.info__container2 {
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 22px;
+}
+
+.contact__me {
+    border-radius: 10px;
+    border: 1px solid var(--muted, #D9D9D9);
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.sen {
+    margin-right: 10px;
+}
+
+.contact__me1 {
+    border-radius: 10px;
+    border: 1px solid var(--muted, #D9D9D9);
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    margin-left: 29px;
+}
+
+.p {
+    text-align: center;
+    color: #000;
+    font-size: 14px;
+}
+
+.font-weight {
+    margin-left: 70px
+}
+
+.logi__in {
+    color: #0F3DDE;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.img {
+    width: 7816px;
+    height: 1090px;
+    margin-left: 200px
+}
